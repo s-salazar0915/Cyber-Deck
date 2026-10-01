@@ -1,8 +1,5 @@
-git init
-git branch                                    # confirm this matches GitHub before continuing
-git add README.md
-git commit -m "Initial commit"
-git remote add origin https://github.com/your-username/your-repo.git
-git push -u origin main
+# Cyber Deck
+Short Description: We will create a portable computer that is cheap and modular.
 
-# basically we are making a mini computer that can easily be taken apart and has its own OS
+## Elevator Pitch
+Every year, millions of people get trapped by having to spend way too much money on vital, basic technology. When just one small part of a laptop or a phone gets broken, big tech companies have intentionally made it nearly impossible for the average person to fix that broken part independently. 99% of the time, that one small issue leads to needing a replacement of the entire device. This is not an accident, but rather it is how these big tech companies profit off of the working-class people. The devices that are manufactured by these companies are meant to be replaced, not repaired. This not only drains our wallets, but creates a massive amount of unnecessary environmental waste every single year. The non-modularity of devices is not the only problem, however. Big tech companies also have built systems to track and collect your data without giving you a choice. If you choose not to accept the privacy policies that allow these companies to track and collect your data, then you simply are rendered unable to upgrade your device, or in some cases you are disallowed from using that device at all. The people are tired of losing their privacy and wasting money on devices that they don’t even fully own. We need a way for the everyday person to keep their money and keep control of their personal information without being forced to rely on big corporations. 
